@@ -44,7 +44,7 @@ A análise exploratória revelou informações relevantes sobre a operação do 
 
 ### Liderança de Categoria
 
-A categoria **ALIMENTOS** apresentou o maior volume de vendas, com **384.197 itens**, representando aproximadamente **52,38%** da base tratada.
+A categoria **ALIMENTOS** apresentou o maior volume de vendas, com **384.197 itens**, representando aproximadamente **52,38% da base tratada**.
 
 ### Perfil Familiar dos Clientes
 
@@ -72,8 +72,6 @@ A exclusão de registros sem nome de produto garantiu maior confiabilidade na an
 ---
 
 ## 4. Instruções de Execução
-
-Para reproduzir esta análise, siga os passos abaixo:
 
 ### Pré-requisitos
 
@@ -117,17 +115,31 @@ MiniProjeto_Final/
 
 ---
 
+## 6. Fonte dos Dados
+
+A base de dados utilizada neste projeto foi obtida por meio da plataforma Kaggle:
+
+**Base Varejo**
+https://www.kaggle.com/datasets/namespaiva/base-varejo/data
+
+O conjunto de dados foi utilizado exclusivamente para fins acadêmicos e educacionais, permitindo a aplicação prática de conceitos de ETL, Análise Exploratória de Dados (AED) e Business Intelligence (BI).
+
+---
+
 ## Considerações Finais
 
 Este projeto permitiu aplicar, na prática, conceitos fundamentais de:
 
 * Análise Exploratória de Dados (AED);
-* ETL;
-* limpeza e transformação de dados;
+* ETL (Extração, Transformação e Limpeza de Dados);
+* tratamento e padronização de informações;
 * estatística descritiva;
-* Business Intelligence.
+* geração de indicadores de negócio;
+* Business Intelligence (BI).
 
-A experiência demonstrou a importância da qualidade dos dados como base para análises confiáveis e para o desenvolvimento de soluções orientadas por dados.
+Além de desenvolver habilidades técnicas em manipulação e análise de dados, o projeto evidenciou a importância da qualidade das informações para a geração de insights confiáveis e para o suporte à tomada de decisões orientadas por dados.
+
+A experiência reforçou como etapas de limpeza, validação e padronização são fundamentais para transformar grandes volumes de dados em conhecimento útil para organizações.
 
 ---
 
